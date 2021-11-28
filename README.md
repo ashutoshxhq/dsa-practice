@@ -2,7 +2,7 @@
 Data Structure and Algorithms Practice in C++
 
 # Table of Content
-- [ ] Mathematics
+- [x] Mathematics
 - [ ] Bit Manupulation
 - [ ] Recursion
 - [ ] Arrays
