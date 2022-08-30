@@ -2,26 +2,23 @@
 Data Structure and Algorithms Practice in C++
 
 # Table of Content
-- [x] Mathematics
-- [ ] Bit Manupulation
-- [ ] Recursion
-- [ ] Arrays
-- [ ] Searching
-- [ ] Sorting
-- [ ] Matrix
-- [ ] Hashing
-- [ ] Strings
+- [x] Recursion and Backtracking
 - [ ] Linked List
-- [ ] Stack
-- [ ] Queue
-- [ ] Deque
-- [ ] Tree
-- [ ] Binary Search Tree
-- [ ] Heap
-- [ ] Graph
-- [ ] Greedy
-- [ ] Backtracking
+- [ ] Stacks
+- [ ] Queues
+- [ ] Trees
+- [ ] Priority Queues and Heaps
+- [ ] Disjoint Sets ADT
+- [ ] Graph Algorithms
+- [ ] Sorting
+- [ ] Searching
+- [ ] Selection Algorithms
+- [ ] Symbol Tables
+- [ ] Hashing
+- [ ] String Algorithms
+- [ ] Algorithm Design Techniques
+- [ ] Greedy Algorithms
+- [ ] Divide and Conquer
 - [ ] Dynamic Programming
-- [ ] Trie
-- [ ] Segment and Binary Indexed Tree
-- [ ] Disjoint Set
+- [ ] Complexity Classed
+- [ ] Miscellaneous
