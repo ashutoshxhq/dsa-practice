@@ -2,13 +2,19 @@
 #include <climits>
 using namespace std;
 
-void bubble_sort(int a[], int n)
+// Comparator Function Defination for sorting in desc order
+bool compare(int a, int b)
+{
+    return a > b;
+}
+
+void bubble_sort(int a[], int n, bool (&cmp)(int a, int b))
 {
     for (int i = 0; i < n - 1; i++)
     {
         for (int j = 0; j < n - i - 1; j++)
         {
-            if (a[j] > a[j + 1])
+            if (cmp(a[j], a[j + 1]))
             {
                 swap(a[j], a[j + 1]);
             }
@@ -37,7 +43,7 @@ int main()
         cin >> a[i];
     }
 
-    bubble_sort(a, n);
+    bubble_sort(a, n, compare);
 
     print_arr(a, n);
     return 0;
