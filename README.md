@@ -5,3 +5,11 @@
   - [x] Binary Search
   - [x] Selection Sort
   - [x] Bubble Sort
+  - [ ] Insertion Sort
+  - [ ] C++ Array STL
+  - [ ] Comparators
+  - [ ] Generating Subarrays
+  - [ ] Maximum Subarray Sum 1
+  - [ ] Maximum Subarray Sum 2
+  - [ ] Maximum Subarray Sum 3 (kadane's Algorithm)
+  - [ ] Two Pointer Approach Pair Sum Problem
