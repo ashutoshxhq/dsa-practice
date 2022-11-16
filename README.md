@@ -6,10 +6,10 @@
   - [x] Selection Sort
   - [x] Bubble Sort
   - [x] Insertion Sort
-  - [ ] C++ Array STL
-  - [ ] Comparators
-  - [ ] Generating Subarrays
-  - [ ] Maximum Subarray Sum 1
-  - [ ] Maximum Subarray Sum 2
-  - [ ] Maximum Subarray Sum 3 (kadane's Algorithm)
-  - [ ] Two Pointer Approach Pair Sum Problem
+  - [x] C++ Array STL
+  - [x] Comparators
+  - [x] Generating Subarrays
+  - [x] Maximum Subarray Sum 1
+  - [x] Maximum Subarray Sum 2
+  - [x] Maximum Subarray Sum 3 (kadane's Algorithm)
+  - [x] Two Pointer Approach Pair Sum Problem

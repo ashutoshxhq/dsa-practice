@@ -4,21 +4,27 @@ using namespace std;
 
 void pair_sum(int a[], int n, int k)
 {
-    int i=0, j=n-1;
-    while (a[i]+a[j] != k){
-        if(a[i]+a[j] <k){
+    int i = 0, j = n - 1;
+    while (i < j)
+    {
+        if (a[i] + a[j] < k)
+        {
             i++;
-        } 
-        
-        if(a[i]+a[j] >k){
+        }
+
+        if (a[i] + a[j] > k)
+        {
             j--;
+        }
+
+        if (a[i] + a[j] == k)
+        {
+            break;
         }
     }
 
-    cout<<"Elements are: "<<a[i]<<","<<a[j];
-    
+    cout << "Elements are: " << a[i] << "," << a[j];
 }
-
 
 int main()
 {
