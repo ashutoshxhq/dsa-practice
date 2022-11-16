@@ -5,7 +5,7 @@
   - [x] Binary Search
   - [x] Selection Sort
   - [x] Bubble Sort
-  - [ ] Insertion Sort
+  - [x] Insertion Sort
   - [ ] C++ Array STL
   - [ ] Comparators
   - [ ] Generating Subarrays
