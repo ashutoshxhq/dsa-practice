@@ -13,3 +13,11 @@
   - [x] Maximum Subarray Sum 2
   - [x] Maximum Subarray Sum 3 (kadane's Algorithm)
   - [x] Two Pointer Approach Pair Sum Problem
+- 2D Arrays
+  - [ ] Wave Print
+  - [ ] Spiral Paint
+  - [ ] Piyush and Magical Park
+  - [ ] Rotate Image 
+  - [ ] Staircase Search
+  - [ ] 2D Character Array
+  - [ ] Reading a list of String
