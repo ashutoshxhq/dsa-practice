@@ -1,0 +1,13 @@
+// print pattern 
+read lines
+set i=1
+
+while i<=lines do
+    set j= 1
+    while j<=i do
+        print (i+j)%2
+        set j=j+1
+    end
+    i=i+1
+    print "\n"
+end
